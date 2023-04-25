@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.all{
+    width: 50%;
+    height: 60vh;
+    margin: auto;
+    margin-top: 15vh;
+    background-color: black;
+    border: 3px solid black;
+    box-shadow: 10px 10px 40px green , -10px -10px 40px red;
+}
+.surkh{  
+width: 100%;
+height: 20vh;
+background-color: red;
+
+}
+.safed {
+    width: 100%;
+    height: 20vh;
+    background-color: white;
+    
+ }
+.sabz{
+        width: 100%;
+        height: 20vh;
+        background-color: green;  
+}
+ .image{
+            margin-left: 38%;
+            margin-top: 1%;
+}
